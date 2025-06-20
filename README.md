@@ -6,6 +6,10 @@
 ---
 
 ## 🚀 About Me
+📍 Location : [Villupuram, India]
+- 🎓 Background in: [B.Tech Mechanical Engineering]
+- 📊 Interested in: Data Science, Machine Learning, AI, Data Visualization
+- 💡 Goal: To become a full-time Data Scientist and contribute to impactful, data-driven projects.
 
 - 🌱 I’m currently learning:  
   - Machine Learning with Python (scikit-learn, XGBoost)   
